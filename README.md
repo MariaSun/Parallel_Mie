@@ -1,5 +1,5 @@
 # Parallel_Mie
-The package performs Mie scattering routine in parallel using MPI interface.
+The package performs Electric Monte Carlo Mie scattering routine in parallel using MPI interface.
 
 To compile and run the package one would need to install OpenMP (say, https://github.com/firemodels/fds/wiki/Installing-Open-MPI-on-OS-X)
 
